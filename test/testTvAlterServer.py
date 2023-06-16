@@ -28,13 +28,13 @@ class TestTvAlterServer(unittest.TestCase):
         input ={
   "exchange":"okx",
   "symbol":"SUSHI-USDT-SWAP",
-  "comment":"tp_long",
+  "comment":"long",
   "price":"{{strategy.order.price}}",
   "qty":"10",
   "batch_qty":"5",
-  "api_key":"5c9e6f70-6fbe-445c-a1b0-1d16c1d52e91",
-  "secretKey":"EF9BD664BE0A2CBC3154FED9F209B61D",
-  "passphrase":"Huang1018@",
+  "api_key":"5c9ef70-6fbe-445c-a1b0-1d16c1d52e91",
+  "secretKey":"E9664BE0A2CBC3154FED9F209B61D",
+  "passphrase":"ng118@",
   "diaccess_token":"",
   "keyword":""
 }
